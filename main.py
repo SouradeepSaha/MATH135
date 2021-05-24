@@ -80,5 +80,3 @@ def powerMod(base, exp, m):
         exp = int(exp/2)
         a1 = (a1 * a1) % m
     return p
-
-def decrypt(c, )
